@@ -1,5 +1,6 @@
  import { Notify } from 'notiflix/build/notiflix-notify-aio';
-
+// import Notiflix from 'notiflix';
+// Notiflix.Notify.failure('Please choose a date in the future');
 const refs = {
   body: document.querySelector('body'),
   form: document.querySelector('form.form'),
