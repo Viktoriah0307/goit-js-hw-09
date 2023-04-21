@@ -1,5 +1,5 @@
 import flatpickr from 'flatpickr';
-import 'flatpickr/dist/flatpickr.min.css';
+import 'flatpickr/dist/flatpickr.min.css' from './src/js/02-timer.js';
 import { Report } from 'notiflix/build/notiflix-report-aio';
 
 document.body.style.backgroundColor = '#ece5da';
